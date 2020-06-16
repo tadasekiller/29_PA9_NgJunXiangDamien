@@ -168,6 +168,8 @@
         private System.Windows.Forms.RadioButton rdb_USdollars;
         private System.Windows.Forms.RadioButton rdb_JapYen;
         private System.Windows.Forms.Label lbl_error;
+        private System.Windows.Forms.RadioButton rdb_malaysia;
+
     }
 }
 
